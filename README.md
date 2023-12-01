@@ -1,2 +1,2 @@
-# docs
+# docs [![Discord](https://img.shields.io/discord/1057831496926376018.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/plantmc) ![Deployment Status](https://img.shields.io/github/deployments/PlantMC-Project/docs/production?label=deployment&logo=github) ![License](https://img.shields.io/github/license/PlantMC-Project/docs)
 Documentation for all projects under the PlantMC project.
